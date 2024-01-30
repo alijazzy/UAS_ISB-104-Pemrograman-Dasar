@@ -1,0 +1,5 @@
+P101 Umum
+P102 Gigi
+P103 Penyakit dalam
+P104 Jantung
+P105 THT
